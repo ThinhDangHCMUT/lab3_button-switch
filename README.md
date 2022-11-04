@@ -29,10 +29,10 @@ mode include:
 - The value of time duration is in a range of 1 - 99.
 - The third button is used to set the value.
 
-**Mode 3 - Modify time duration for the amber LEDs:**
+**Mode 3: Modify time duration for the amber LEDs:**
 Similar for the red LEDs described above with the amber LEDs.
 
-**Mode 4 - Modify time duration for the green LEDs:**
+**Mode 4: Modify time duration for the green LEDs:**
 Similar for the red LEDs described above with the green LEDs.
 
 ### Realistic
